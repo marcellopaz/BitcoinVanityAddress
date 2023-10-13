@@ -1,0 +1,13 @@
+asn1crypto==1.5.1
+bip-utils==2.7.1
+cbor2==5.4.6
+cffi==1.16.0
+coincurve==17.0.0
+crcmod==1.7
+ecdsa==0.18.0
+ed25519-blake2b==1.4
+py-sr25519-bindings==0.2.0
+pycparser==2.21
+pycryptodome==3.19.0
+PyNaCl==1.5.0
+six==1.16.0
